@@ -1,0 +1,17 @@
+# Node.js / Correo
+node_modules/
+.env
+
+# Python / Archivos generados
+__pycache__/
+*.pyc
+*.log
+config.json
+usuarios.json
+historial/
+fotos/
+descargas/
+conversaciones/
+
+# Sistema
+.DS_Store
